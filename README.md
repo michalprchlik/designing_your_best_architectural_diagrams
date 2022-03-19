@@ -1,1 +1,5 @@
-# designing_your_best_architectural_diagrams
+# Designing your best architectural diagrams
+
+Youtube video - https://www.youtube.com/watch?v=60gkNGIh-Gs
+
+draw.io by Redhat - https://redhatdemocentral.gitlab.io/portfolio-architecture-tooling/
